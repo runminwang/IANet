@@ -4,4 +4,4 @@ Camouflaged Object Detection (COD) aims to identify objects that closely blend i
 
 -----------------------------------------January 2, 2025-----------------------------------------
 
-% This work has been submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence. After the paper is accepted, we will release the experimental code.
+This work has been submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence. After the paper is accepted, we will release the experimental code.
